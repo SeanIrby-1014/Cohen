@@ -1,0 +1,16 @@
+{
+  "name": "todos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.17.1",
+    "lodash": "^4.17.15",
+    "pg": "^8.7.3"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
